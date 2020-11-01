@@ -1,0 +1,2 @@
+# fivem-script
+fivem script
